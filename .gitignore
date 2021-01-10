@@ -1,0 +1,3 @@
+C-prog-lang/*
+!C-prog-lang/*.c
+!C-prog-lang/*.txt
